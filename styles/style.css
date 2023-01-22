@@ -1,0 +1,32 @@
+#text-primary{
+   color: purple !important;
+}
+
+.bannerimg1{
+    background-image: url("../images/wedding.png");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.bannerimg2{
+    background-image: url("../images/banner.png");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.bannerimg3{
+    background-image: url("../images/people.png");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
